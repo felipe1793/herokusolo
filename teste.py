@@ -8,6 +8,7 @@ app = Flask(__name__)
 def nao_entre_em_panico():
     a = 10
     b = 25
+    c = a + b
     teste = c
 
     return teste
