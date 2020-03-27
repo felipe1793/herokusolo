@@ -6,8 +6,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def nao_entre_em_panico():
-    a = 10
-    b = 25
+    a = int(10)
+    b = int(25)
     c = a + b
     teste = c
 
