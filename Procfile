@@ -1,1 +1,1 @@
-web: python teste.py
+web: python t8.py
